@@ -65,6 +65,10 @@ header {
   flex: 1;
 }
 
+#portfolio p {
+  font-size: 14px;
+}
+
 /* Containers */
 div {
   background-color: #eae2b7;
